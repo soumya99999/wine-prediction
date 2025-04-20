@@ -68,7 +68,7 @@ cython_debug/
 .streamlit/
 
 # Model files
-*.pkl
+# *.pkl
 
 # Logs
 *.log
